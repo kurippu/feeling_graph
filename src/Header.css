@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  background-color: #8CCBFF;
+  width: 100vw;
+  height: 10.5vh;
+  margin: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5rem;
+  box-sizing: border-box;
+}
+
+a {
+  color: #EEFF00;
+  text-decoration: none;
+  text-shadow: black 1px 0 10px;
+  font-size: 20pt;
+  font-family: Iceberg;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.dash-option {
+  display: flex;
+  gap: 6rem;
+}

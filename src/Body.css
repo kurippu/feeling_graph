@@ -1,0 +1,32 @@
+.body-parent{
+
+
+width: 100vw;
+height: 20rem;
+background-color: black;
+display: flex;
+flex-direction: column;
+gap:2rem;
+padding: 2rem;
+align-items: center;
+
+}
+
+.body-heading{
+
+
+color: white;
+font-family: Iceberg;
+
+}
+
+.body-text{
+
+color: white;
+font-family: Iceberg;
+font-size: 20pt;
+text-align: center;
+margin-left :10vw;
+margin-right: 10vw;
+
+}

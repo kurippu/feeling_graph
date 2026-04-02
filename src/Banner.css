@@ -1,0 +1,30 @@
+.banner-background{
+
+
+width: 100vw;
+height: 44vh;
+background-color: #FFF7E8;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.circle {
+  width: 18vw;
+  height: 32vh;
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  position: absolute;
+}
+
+
+.image{
+
+
+    height:16vw;
+    position: absolute;
+
+
+}

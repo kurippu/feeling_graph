@@ -1,0 +1,33 @@
+.footer{
+
+
+background-color: #8CCBFF;
+width: 100vw;
+height: 22vh;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.contact{
+
+
+    width: 17vw;
+    height: 9vh;
+    background-color: #EEFF00;
+    border: 0 ;
+    font-size: 20pt;
+    font-family: Iceberg;
+    
+
+
+}
+
+.contact:hover{
+
+
+    cursor: pointer;
+}
